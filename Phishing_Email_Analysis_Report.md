@@ -33,19 +33,25 @@ Urgent and threatening wording:
 
 Creates panic to trick the recipient into clicking quickly.
 
-🔹 Spelling/Grammar Errors
+
+
+Spelling/Grammar Errors
 
 “Paypa1” in sender email.
 
 Poor sentence structure: “To avoid suspension, please verify your account immediately by clicking the link below.”
 
-🔹 Attachments
+
+
+Attachments
 
 Account_Update.zip – suspicious compressed file, likely containing malware (e.g., trojan or ransomware).
 
 Legitimate PayPal never sends .zip files for account verification.
 
-3. Summary of Phishing Traits
+
+
+Summary of Phishing Traits
 
 Spoofed sender domain (paypa1.com).
 
